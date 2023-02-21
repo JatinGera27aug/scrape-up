@@ -46,7 +46,8 @@ user = github.Users(username="nikhil25803")
 |  `.get_repositories()` | Returns the list of repositories of a user. |
 |  `.get_starred_repos()` | Return the list of starred repositories of a user. | 
 |  `.pul_requests()` |Return the number of pull requests opened in a repository. |
-|  `following()` | Returns the number of following of a user. |
+
+|  `following()`  | Returns the number of following of a user. |
 
 -----
 
